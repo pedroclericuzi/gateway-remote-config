@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFF8D3A59",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": -7.99564551,
+    "ref_longitude": -34.84016091,
+    "ref_altitude": 9,
+    "contact_email": "clericuzipedro@gmail.com",
+    "description": "Projeto LoRa ESE"
+  }
+}
